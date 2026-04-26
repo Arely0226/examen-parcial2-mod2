@@ -1,6 +1,6 @@
 # 📝 Examen Práctico: Control de Versiones y Lógica en Python
 
-¡Bienvenido al examen! En esta actividad simularás un flujo de trabajo real: recibirás un código base con errores o funciones incompletas, y deberás repararlo siguiendo las buenas prácticas de Git y GitHub.
+¡Bienvenido al examen! En esta actividad simularás un flujo de trabajo real: recibirás un código base con errores o funciones incompletas, y deberás repararlo. **Tiempo límite 50 min**.
 
 ## 🎯 Objetivos
 1. Aplicar comandos básicos de **Git** (clone, branch, commit, push).
