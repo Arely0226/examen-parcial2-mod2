@@ -8,8 +8,11 @@
 3. Realizar un **Pull Request** para entrega de código.
 ---
 ## Intrucciones del repositorio
-1. Clona el repositorio en tu carpeta personal en Documentos.
-2. Configura el name y email local de tu reposotorio.
-3. No trabajes sobre la rama principal (main) Crea una rama con tu nombre y grupo (ej. fulanito-perez-c) para trabajar tus cambios.
-4. Al terminar de editar y/o corregir los archivos solicitados, realiza el commit agregando el mensaje "Respuesta ejercicio examen - Tu nombre y apellido".
-5. Envia tus cambios a tu rama en GitHub y posteriormente realiza un Pull Request para que el docente los revice.
+1. Haz un Fork del repositorio del docente en tu cuenta de Github.
+2. Clona tu copia del repositorio en tu carpeta personal en Documentos.
+3. Configura el name y email local de tu reposotorio.
+4. En el terminal, crea una carpeta con tu nombre y apellido (fulanito-perez) dentro de la carpeta de "entregas".
+5. Entra a tu carpeta y abre visual studio code en esa carpeta para crear el archivo "main.py".
+6. Copia y pega en el archivo main.py el codigo compartido por el docente,
+7. Al terminar de editar y/o corregir el archivo main.py, realiza el commit agregando el mensaje "Respuesta ejercicio examen - Tu nombre y apellido".
+8. Envia tus cambios a tu repositorio en GitHub y posteriormente realiza un Pull Request para que el docente los revice.
