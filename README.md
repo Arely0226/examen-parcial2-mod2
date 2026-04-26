@@ -13,6 +13,7 @@
 3. Configura el name y email local de tu reposotorio.
 4. En el terminal, crea una carpeta con tu nombre y apellido (fulanito-perez) dentro de la carpeta de "entregas".
 5. Entra a tu carpeta y abre visual studio code en esa carpeta para crear el archivo "main.py".
-6. Copia y pega en el archivo main.py el codigo compartido por el docente,
-7. Al terminar de editar y/o corregir el archivo main.py, realiza el commit agregando el mensaje "Respuesta ejercicio examen - Tu nombre y apellido".
+6. Copia y pega en el archivo main.py el codigo que se encuentra en entregas/codigo_main_sin_corregir.py
+7. Al terminar de editar y/o corregir tu archivo main.py, realiza el commit agregando el mensaje "Respuesta ejercicio examen - Tu nombre y apellido".
 8. Envia tus cambios a tu repositorio en GitHub y posteriormente realiza un Pull Request para que el docente los revice.
+
